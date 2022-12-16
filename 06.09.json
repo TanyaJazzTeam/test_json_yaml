@@ -4,7 +4,7 @@
 			"name": "Mechanics", 
 			"sections":[
 				{
-					"name": "Kinematics",
+					"name": "Kinematics не",
 					"complexity": "average",
 					"interest": "great",
 					"bool": true
